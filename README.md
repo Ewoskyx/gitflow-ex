@@ -1,1 +1,1 @@
-# gitflow-ex
+# gitflow exercise
